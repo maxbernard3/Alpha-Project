@@ -22,3 +22,4 @@ The project has to be in .Net Core 5.
 
 Every team has to create a specific branch under this repository named alpha-project-gn where n is the group number (alpha-project-g1, alpha-project-g2 etc).
 Commits have to be done on a regular base and be done by all group participants.
+salut test
