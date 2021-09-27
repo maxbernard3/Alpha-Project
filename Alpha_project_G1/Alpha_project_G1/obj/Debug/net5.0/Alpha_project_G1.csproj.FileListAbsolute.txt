@@ -1,0 +1,15 @@
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/bin/Debug/net5.0/Alpha_project_G1.deps.json
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/bin/Debug/net5.0/Alpha_project_G1.runtimeconfig.json
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/bin/Debug/net5.0/Alpha_project_G1.runtimeconfig.dev.json
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/bin/Debug/net5.0/Alpha_project_G1.dll
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/bin/Debug/net5.0/ref/Alpha_project_G1.dll
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/bin/Debug/net5.0/Alpha_project_G1.pdb
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.csproj.AssemblyReference.cache
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.AssemblyInfoInputs.cache
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.AssemblyInfo.cs
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.csproj.CoreCompileInputs.cache
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.dll
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/ref/Alpha_project_G1.dll
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.pdb
+/Users/romain.nicolaon/Documents/Algosup/Programmation/C#/Alpha-Project/Alpha_project_G1/Alpha_project_G1/obj/Debug/net5.0/Alpha_project_G1.genruntimeconfig.cache
